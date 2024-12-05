@@ -1,0 +1,2 @@
+1. animation for fade disappear (t-quiz)
+	https://docs.flutter.dev/cookbook/animation/opacity-animation
